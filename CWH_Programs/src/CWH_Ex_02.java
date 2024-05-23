@@ -1,4 +1,4 @@
-public class CWH_Ex_2 {
+public class CWH_Ex_02 {
     public static void main(String[] args) {
 
     }
